@@ -1,0 +1,11 @@
+.kontak-container {
+    position: relative;
+    background: url(../images/bg-kontak.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+}
+.grup-kartu {
+    padding-left: 16%;
+    padding-top: 15%;
+}
